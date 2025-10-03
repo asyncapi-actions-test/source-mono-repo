@@ -1,5 +1,6 @@
 {
   "name": "@action-test-ash17290/ui",
+  "description": "UI components for action-test-ash17290",
   "version": "0.0.1",
   "private": false,
   "exports": {
