@@ -1,5 +1,5 @@
 {
-  "extends": "@shurtugal/typescript-config/react-library.json",
+  "extends": "@action-test-ash17290/typescript-config/react-library.json",
   "compilerOptions": {
     "outDir": "dist"
   },

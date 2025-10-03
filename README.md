@@ -18,9 +18,9 @@ This Turborepo includes the following packages/apps:
 
 - `docs`: a [Next.js](https://nextjs.org/) app
 - `web`: another [Next.js](https://nextjs.org/) app
-- `@shurtugal/ui`: a stub React component library shared by both `web` and `docs` applications
-- `@shurtugal/eslint-config`: `eslint` configurations (includes `eslint-config-next` and `eslint-config-prettier`)
-- `@shurtugal/typescript-config`: `tsconfig.json`s used throughout the monorepo
+- `@action-test-ash17290/ui`: a stub React component library shared by both `web` and `docs` applications
+- `@action-test-ash17290/eslint-config`: `eslint` configurations (includes `eslint-config-next` and `eslint-config-prettier`)
+- `@action-test-ash17290/typescript-config`: `tsconfig.json`s used throughout the monorepo
 
 Each package/app is 100% [TypeScript](https://www.typescriptlang.org/).
 

@@ -1,5 +1,5 @@
 {
-  "extends": "@shurtugal/typescript-config/nextjs.json",
+  "extends": "@action-test-ash17290/typescript-config/nextjs.json",
   "compilerOptions": {
     "plugins": [
       {

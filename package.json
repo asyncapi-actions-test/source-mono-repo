@@ -1,6 +1,6 @@
 {
   "name": "source-mono-repo",
-  "private": true,
+  "private": false,
   "scripts": {
     "build": "turbo run build",
     "dev": "turbo run dev",
@@ -20,5 +20,9 @@
   "workspaces": [
     "apps/*",
     "packages/*"
-  ]
+  ],
+  "dependencies": {
+    "@changesets/cli": "^2.29.7",
+    "add": "^2.0.6"
+  }
 }

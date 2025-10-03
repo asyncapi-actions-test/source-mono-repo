@@ -1,8 +1,8 @@
 {
-  "name": "@shurtugal/web",
-  "version": "0.1.0",
+  "name": "@action-test-ash17290/web",
+  "version": "0.1.1",
   "type": "module",
-  "private": true,
+  "private": false,
   "scripts": {
     "dev": "next dev --turbopack --port 3000",
     "build": "next build",
@@ -11,14 +11,14 @@
     "check-types": "tsc --noEmit"
   },
   "dependencies": {
-    "@shurtugal/ui": "*",
+    "@action-test-ash17290/ui": "*",
     "next": "^15.5.0",
     "react": "^19.1.0",
     "react-dom": "^19.1.0"
   },
   "devDependencies": {
-    "@shurtugal/eslint-config": "*",
-    "@shurtugal/typescript-config": "*",
+    "@action-test-ash17290/eslint-config": "*",
+    "@action-test-ash17290/typescript-config": "*",
     "@types/node": "^22.15.3",
     "@types/react": "19.1.0",
     "@types/react-dom": "19.1.1",
