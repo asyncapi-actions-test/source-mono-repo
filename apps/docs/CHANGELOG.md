@@ -1,5 +1,16 @@
 # @action-test-ash17290/docs
 
+## 1.0.0
+
+### Major Changes
+
+- 0489202: Bump Test
+
+### Patch Changes
+
+- Updated dependencies [0489202]
+  - @action-test-ash17290/ui@1.0.0
+
 ## 0.1.1
 
 ### Patch Changes

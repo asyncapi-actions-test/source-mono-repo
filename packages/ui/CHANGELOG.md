@@ -1,5 +1,11 @@
 # @action-test-ash17290/ui
 
+## 1.0.0
+
+### Major Changes
+
+- 0489202: Bump Test
+
 ## 0.0.2
 
 ### Patch Changes
