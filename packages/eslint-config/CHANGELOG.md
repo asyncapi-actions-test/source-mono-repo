@@ -1,5 +1,11 @@
 # @action-test-ash17290/eslint-config
 
+## 1.1.0
+
+### Minor Changes
+
+- 4361176: Test the bumping of packages
+
 ## 1.0.0
 
 ### Major Changes
