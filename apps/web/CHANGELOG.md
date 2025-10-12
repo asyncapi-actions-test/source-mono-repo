@@ -1,5 +1,16 @@
 # @action-test-ash17290/web
 
+## 1.1.0
+
+### Minor Changes
+
+- 4361176: Test the bumping of packages
+
+### Patch Changes
+
+- Updated dependencies [4361176]
+  - @action-test-ash17290/ui@1.1.0
+
 ## 1.0.0
 
 ### Major Changes
